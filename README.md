@@ -20,3 +20,5 @@ This is where I documented my first project while learning Data Analysis with th
 SELECT * FROM TABLE1
 WHERE CONDITIONS = TRUE
 ```
+
+## DATA VISUALIZATION

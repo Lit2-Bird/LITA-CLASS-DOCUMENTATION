@@ -22,3 +22,7 @@ WHERE CONDITIONS = TRUE
 ```
 
 ## DATA VISUALIZATION
+
+|Heading 1|Heading 2|heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table3|
